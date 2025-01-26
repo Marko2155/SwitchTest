@@ -16,5 +16,3 @@ document.getElementById("clickme").addEventListener("click", function() {
     }
     
 })
-
-document.getElementById("ua").value = navigator.userAgent.toString();
