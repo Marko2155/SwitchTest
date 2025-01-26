@@ -1,2 +1,2 @@
 # SwitchTest
-Just to look for any bugs in the Switch browser that could lead to Homebrew.
+Just a test to look for any browser bugs in the Switch which could lead to mods.
